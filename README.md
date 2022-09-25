@@ -101,7 +101,7 @@
     -  [Canyon S15 VCLS 2.0 CF](https://www.canyon.com/en-us/gear/components/contact-points/posts-and-clamps/canyon-s15-vcls-2.0-cf-seatpost/148287.html)
     -  Material: Carbon
     -  Setback: 13 mm / 25 mm
-    -  Technology: VCLS 2.0 | Fliphead
+    -  Technology: VCLS 2.0 \| Fliphead
     -  Weight: 220 g
 
 ### Accessories
